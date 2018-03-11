@@ -2,4 +2,4 @@
 
 Website URL: https://aravindsreenivasa.github.io/
 
-Courtesy: https://startbootstrap.com/template-overviews/resume/
+Bootstrappd from: https://startbootstrap.com/template-overviews/resume/
